@@ -1,0 +1,6 @@
+[submodule "handy_api"]
+	path = handy_api
+	url = https://github.com/cork-log/handy_api.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/cork-log/gateway.git
